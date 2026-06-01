@@ -70,7 +70,7 @@ spodoptera-gut-microbiome-genomics
 ├── figures/
 │   ├── one_health.png
 │   ├── workflow.png
-│   ├── phylogenetic_tree.png
+│   ├── phylogenetic_tree.jpg
 │   ├── genome_comparison.png
 │   └── pesticide_genes.png
 │
