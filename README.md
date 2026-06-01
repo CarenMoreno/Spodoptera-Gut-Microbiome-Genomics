@@ -128,9 +128,20 @@ Key findings obtained during the analysis include:
 
 ### Genome Comparison
 
-<p align="center">
-  <img src="figures/genome_comparison.jpg" width="500">
-</p>
+### Genómica Comparativa
+
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td align="center" style="border: none; padding: 10px;">
+      <img src="figures/genome_comparison_phenotype.jpg" width="350" alt="Agrupación según fenotipo"><br>
+      <sub><b>Agrupación de especies según su fenotipo</b></sub>
+    </td>
+    <td align="center" style="border: none; padding: 10px;">
+      <img src="figures/genome_comparison_origin.jpg" width="350" alt="Agrupación según origen"><br>
+      <sub><b>Agrupación de especies según su origen</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### Functional Analysis
 
