@@ -62,6 +62,7 @@ Biological Interpretation
 
 ```text
 spodoptera-gut-microbiome-genomics
+│
 ├── README.md
 │
 ├── report/
