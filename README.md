@@ -114,6 +114,12 @@ Key findings obtained during the analysis include:
 
 ## Results
 
+### Phylogenetic Tree
+
+<p align="center">
+  <img src="figures/phylogenetic_tree.jpg" width="700">
+</p>
+
 ### Comparative Genomics Workflow
 
 <p align="center">
