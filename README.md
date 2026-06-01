@@ -140,8 +140,6 @@ Key findings obtained during the analysis include:
   </tr>
 </table>
 
-### Functional Analysis
-
 ## Functional Analysis
 
 The orthologous genes identified were associated with:
