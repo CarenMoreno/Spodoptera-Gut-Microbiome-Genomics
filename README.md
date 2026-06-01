@@ -132,6 +132,16 @@ Key findings obtained during the analysis include:
   <img src="figures/phylogenetic_tree.jpg" width="700">
 </p>
 
+### Phylogenetic Analysis
+
+The phylogenomic trees generated using 100 and 500 single-copy genes showed a consistent clustering pattern.
+
+| Main observation | Interpretation |
+|------------------|---------------|
+| E. mundtii isolates clustered together | Supports species assignment |
+| E. casseliflavus isolates clustered together | Supports species assignment |
+| Resistant and susceptible strains remained closely related | Resistance was not associated with major phylogenetic divergence |
+
 ### Genome Comparison
 
 <table align="center" style="border: none; border-collapse: collapse;">
