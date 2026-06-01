@@ -129,7 +129,7 @@ Key findings obtained during the analysis include:
 ### Genome Comparison
 
 <p align="center">
-  <img src="figures/genome_comparison.png" width="700">
+  <img src="figures/genome_comparison.jpg" width="700">
 </p>
 
 ### Functional Analysis
