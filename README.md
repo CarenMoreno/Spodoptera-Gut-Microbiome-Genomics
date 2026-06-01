@@ -157,6 +157,17 @@ The phylogenomic trees generated using 100 and 500 single-copy genes showed a co
   </tr>
 </table>
 
+### Orthogroup Analysis
+
+| Group | Exclusive Orthogroups |
+|---------|---------|
+| Enterococcus casseliflavus | 7 |
+| Enterococcus mundtii | 6 |
+| Resistant E. casseliflavus | 4 |
+| Resistant E. mundtii | 1 |
+
+These results suggest species-specific genomic signatures, although no orthogroup clearly explained pesticide resistance.
+
 ## Functional Analysis
 
 The orthologous genes identified were associated with:
