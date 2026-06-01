@@ -120,6 +120,10 @@ Key findings obtained during the analysis include:
   <img src="figures/phylogenetic_tree.jpg" width="700">
 </p>
 
+<p align="center">
+  <img src="figures/phylogenetic_tree1.jpg" width="700">
+</p>
+
 ### Workflow
 
 <p align="center">
