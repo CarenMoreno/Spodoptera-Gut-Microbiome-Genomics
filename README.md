@@ -1,4 +1,4 @@
-# Spodoptera-Gut-Microbiome-Genomics
+# Spodoptera Gut Microbiome Genomics
 Comparative Genomics Analysis of Insect Gut Microbiota Associated with Pesticide Resistance
 
 # Comparative Genomics of Enterococcus Strains Associated with Pesticide Degradation
