@@ -120,7 +120,7 @@ Key findings obtained during the analysis include:
   <img src="figures/phylogenetic_tree.jpg" width="700">
 </p>
 
-### Comparative Genomics Workflow
+### Workflow
 
 <p align="center">
   <img src="figures/workflow.png" width="700">
@@ -129,7 +129,7 @@ Key findings obtained during the analysis include:
 ### Genome Comparison
 
 <p align="center">
-  <img src="figures/genome_comparison.jpg" width="700">
+  <img src="figures/genome_comparison.jpg" width="500">
 </p>
 
 ### Functional Analysis
