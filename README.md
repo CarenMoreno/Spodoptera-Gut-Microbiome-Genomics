@@ -168,6 +168,20 @@ The phylogenomic trees generated using 100 and 500 single-copy genes showed a co
 
 These results suggest species-specific genomic signatures, although no orthogroup clearly explained pesticide resistance.
 
+### Genome Assembly Statistics
+
+| Strain | Genome Size (Mb) | Contigs | GC (%) |
+|---------|---------|---------|---------|
+| IIL-SusEm | 2.87 | 230 | 38.45 |
+| IIL-Luf18 | 2.92 | 126 | 38.31 |
+| IIL-Sp24 | 3.01 | 148 | 38.38 |
+| IIL-CI25 | 2.99 | 187 | 38.49 |
+| IIL-SusEc | 3.87 | 147 | 42.32 |
+| IIL-Sp06 | 4.10 | 181 | 42.15 |
+| IIL-LC32 | 3.93 | 272 | 42.29 |
+| IIL-Cl05 | 4.03 | 131 | 42.08 |
+| IIL-Dm01 | 4.02 | 215 | 42.22 |
+
 ## Functional Analysis
 
 The orthologous genes identified were associated with:
