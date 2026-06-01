@@ -128,8 +128,6 @@ Key findings obtained during the analysis include:
 
 ### Genome Comparison
 
-### Genómica Comparativa
-
 <table align="center" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td align="center" style="border: none; padding: 10px;">
