@@ -148,9 +148,16 @@ Key findings obtained during the analysis include:
 
 ### Functional Analysis
 
-<p align="center">
-  <img src="figures/pesticide_genes.png" width="700">
-</p>
+## Functional Analysis
+
+The orthologous genes identified were associated with:
+
+| Functional Category | Biological Relevance |
+|---------------------|---------------------|
+| Pyrimidine metabolism | Cellular growth and DNA synthesis |
+| Drug metabolism pathways | Potential xenobiotic transformation |
+| Orotate phosphoribosyltransferase activity | Nucleotide biosynthesis |
+| Xenobiotic-related pathways | Possible contribution to pesticide degradation |
 
 ---
 
