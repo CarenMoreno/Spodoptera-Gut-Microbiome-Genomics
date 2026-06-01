@@ -132,11 +132,11 @@ Key findings obtained during the analysis include:
   <tr style="border: none;">
     <td align="center" style="border: none; padding: 10px;">
       <img src="figures/genome_comparison_phenotype.jpg" width="350" alt="Grouping by phenotype"><br>
-      <sub><b>Agrupación de especies según su fenotipo</b></sub>
+      <sub><b>Grouping of species according to their phenotype</b></sub>
     </td>
     <td align="center" style="border: none; padding: 10px;">
       <img src="figures/genome_comparison_origin.jpg" width="350" alt="Grouping by origin"><br>
-      <sub><b>Agrupación de especies según su origen</b></sub>
+      <sub><b>Grouping of species according to their origin</b></sub>
     </td>
   </tr>
 </table>
