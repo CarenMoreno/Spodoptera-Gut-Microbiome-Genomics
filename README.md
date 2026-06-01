@@ -113,6 +113,17 @@ Key findings obtained during the analysis include:
 
 ---
 
+## Key Results
+
+- 9 Enterococcus genomes analyzed.
+- Genome completeness greater than 99% in all strains.
+- Identification of species-specific orthogroups.
+- Detection of genes associated with xenobiotic metabolism.
+- Comparative genomic evidence supporting adaptation to pesticide exposure.
+- Confirmation of taxonomic relationships through ANI, dDDH and phylogenomic analyses.
+
+---
+
 ## Results
 
 ### Phylogenetic Tree
