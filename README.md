@@ -243,4 +243,4 @@ Universidad Internacional de La Rioja (UNIR)
 
 ## License
 
-This project is distributed under the GNU License.
+This project is distributed under the GPL-3.0  License.
