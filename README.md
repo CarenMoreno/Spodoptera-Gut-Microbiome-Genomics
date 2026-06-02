@@ -235,7 +235,7 @@ Understanding microbial genes involved in pesticide degradation may contribute t
 
 Caren Moreno
 
-Master's Degree in Bioinformatics
+MSc in Bioinformatics
 
 Universidad Internacional de La Rioja (UNIR)
 
