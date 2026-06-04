@@ -173,7 +173,7 @@ These results suggest species-specific genomic signatures, although no orthogrou
 | Strain | Genome Size (Mb) | Contigs | GC (%) |
 |---------|---------|---------|---------|
 | IIL-SusEm | 2.87 | 230 | 38.45 |
-| *IIL-Luf18* | 2.92 | 126 | 38.31 |
+| IIL-Luf18 | 2.92 | 126 | 38.31 |
 | IIL-Sp24 | 3.01 | 148 | 38.38 |
 | IIL-CI25 | 2.99 | 187 | 38.49 |
 | IIL-SusEc | 3.87 | 147 | 42.32 |
